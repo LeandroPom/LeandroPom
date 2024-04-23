@@ -18,10 +18,10 @@ Mi enfoque principal está en la creación de soluciones robustas y escalables e
 
 ## Motivación y Objetivos
 Elegí la carrera de desarrollo porque soy una persona curiosa que disfruta combinando y aplicando nuevos conocimientos. En mi carrera profesional, mi objetivo es dar lo mejor de mí en cada proyecto y aprovechar al máximo cada oportunidad de aprendizaje.
-<--
+<!---
 ## Experiencia
 Mi experiencia se basa en proyectos académicos y prácticas relacionadas con el desarrollo web. Estoy ansioso por aplicar mis habilidades en entornos profesionales y seguir aprendiendo y creciendo como desarrollador.
--->
+--->
 ## Habilidades Adicionales
 Además de mi experiencia en desarrollo, tengo una certificación en oratoria, lecto-comprensión y escucha de inglés en nivel avanzado. Creo en la importancia de la comunicación efectiva para el éxito en cualquier campo.
 
