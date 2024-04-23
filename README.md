@@ -29,7 +29,7 @@ Además de mi experiencia en desarrollo, tengo una certificación en oratoria, l
 
 ## Conéctate conmigo
 
-¡No dudes en contactarme a través de mi [perfil de LinkedIn](linkedin.com/in/leandro-iván-rubio-26a516268) para oportunidades de colaboración o simplemente para conectarnos!
+¡No dudes en contactarme para oportunidades de colaboración o simplemente para conectarnos!
 <div align="center">
 <a href="https://github.com/LeandroPom" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
