@@ -1,4 +1,4 @@
-# Console.log("Hello Work!")
+# Console.log("Hello Work!🖥️")
 
 ## Sobre mí
 Soy un desarrollador Full-Stack con especialización en Back-End, comprometido con la excelencia y la entrega de soluciones de alta calidad.
@@ -28,11 +28,20 @@ Mi experiencia se basa en proyectos académicos y prácticas relacionadas con el
 Además de mi experiencia en desarrollo, tengo una certificación en oratoria, lecto-comprensión y escucha de inglés en nivel avanzado. Creo en la importancia de la comunicación efectiva para el éxito en cualquier campo.
 
 ## Conéctate conmigo
+
 ¡No dudes en contactarme a través de mi [perfil de LinkedIn](linkedin.com/in/leandro-iván-rubio-26a516268) para oportunidades de colaboración o simplemente para conectarnos!
+<div align="center">
+<a href="https://github.com/LeandroPom" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="linkedin.com/in/leandro-iván-rubio-26a516268/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## Proyectos Destacados
 - Un emocionante proyecto donde utilicé mis habilidades para desarrollar soluciones innovadoras. ¡Echa un vistazo!
-- [Deploy Front-End](https://pf-front-hoteler-a-y-turismo.vercel.app/):
-- [Front-End Admin dashboard](https://pf-front-admin.vercel.app/):
-- [Repositorio Back-End](https://github.com/LeandroPom/back-pf-hoteles.git):
-- [Repositorio Back-End Admin dashboard](https://github.com/LeandroPom/pf-back-hostel-admin.git):
+- [Deploy Front-End](https://pf-front-hoteler-a-y-turismo.vercel.app/)
+- [Front-End Admin dashboard](https://pf-front-admin.vercel.app/)
+- [Repositorio Back-End](https://github.com/LeandroPom/back-pf-hoteles.git)
+- [Repositorio Back-End Admin dashboard](https://github.com/LeandroPom/pf-back-hostel-admin.git)
